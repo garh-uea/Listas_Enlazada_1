@@ -1,0 +1,15 @@
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 6\Listas_Enlazada_1\bin\Debug\net8.0\Listas_Enlazada_1.exe
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 6\Listas_Enlazada_1\bin\Debug\net8.0\Listas_Enlazada_1.deps.json
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 6\Listas_Enlazada_1\bin\Debug\net8.0\Listas_Enlazada_1.runtimeconfig.json
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 6\Listas_Enlazada_1\bin\Debug\net8.0\Listas_Enlazada_1.dll
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 6\Listas_Enlazada_1\bin\Debug\net8.0\Listas_Enlazada_1.pdb
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 6\Listas_Enlazada_1\obj\Debug\net8.0\Listas_Enlazada_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 6\Listas_Enlazada_1\obj\Debug\net8.0\Listas_Enlazada_1.AssemblyInfoInputs.cache
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 6\Listas_Enlazada_1\obj\Debug\net8.0\Listas_Enlazada_1.AssemblyInfo.cs
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 6\Listas_Enlazada_1\obj\Debug\net8.0\Listas_Enlazada_1.csproj.CoreCompileInputs.cache
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 6\Listas_Enlazada_1\obj\Debug\net8.0\Listas_Enlazada_1.sourcelink.json
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 6\Listas_Enlazada_1\obj\Debug\net8.0\Listas_Enlazada_1.dll
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 6\Listas_Enlazada_1\obj\Debug\net8.0\refint\Listas_Enlazada_1.dll
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 6\Listas_Enlazada_1\obj\Debug\net8.0\Listas_Enlazada_1.pdb
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 6\Listas_Enlazada_1\obj\Debug\net8.0\Listas_Enlazada_1.genruntimeconfig.cache
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 6\Listas_Enlazada_1\obj\Debug\net8.0\ref\Listas_Enlazada_1.dll
